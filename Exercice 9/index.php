@@ -10,7 +10,16 @@ Exercice : Créer une fonction censor() qui prend 1 argument de type "string" et
 // Fonction à créer ici
 //-------------------------------------------------------------------------
 
+function censor(string $text){
 
+    $forbids=array('stupide', 'ANDOUILLE', 'idiot');
+
+    foreach($forbids as $forbid){
+        $text= str_replace ($forbid, '****', $text);
+    }
+    
+    return $text;
+}
 
 
 
