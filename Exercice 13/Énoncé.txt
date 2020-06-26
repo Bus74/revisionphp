@@ -1,0 +1,4 @@
+
+Exercice :
+
+    - Refaire l'exercice 12 mais en version orienté objets (avec des classes, namespaces, DTO, DAO, etc...)

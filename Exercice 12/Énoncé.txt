@@ -1,0 +1,5 @@
+
+Exercice :
+
+    - Créer une base de données stockant des animaux (id, name, species, birthdate).
+    - Créer une page avec un formulaire permettant d'en ajouter un nouveau. Cette page affichera également la liste de tous les animaux en dessous du formulaire d'ajout.
